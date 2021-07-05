@@ -50,11 +50,11 @@ button{
 }
 
 span{
-    padding: 0.5rem;
+    padding: .5rem;
     border: none;
-    background-color: rgba(0, 0, 0, 0.466);
-    color: white;
     border-radius: 0.5rem;
+    font-size: 2.95rem;
+    color: rgb(12, 8, 8);
 }
 
 button:hover{
